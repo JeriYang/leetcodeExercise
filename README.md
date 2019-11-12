@@ -36,7 +36,7 @@
   * [最长递增子序列]
     * [300. 最长递增子序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/300.py):---https://leetcode-cn.com/problems/longest-increasing-subsequence/
     * [646. 最长数对链](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/646.py):---https://leetcode-cn.com/problems/maximum-length-of-pair-chain/
-    * [376. 摆动序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/376.py):---https://leetcode-cn.com/problems/wiggle-subsequence/
+    * [376. 摆动序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/376.py):---https://leetcode-cn.com/problems/wiggle-subsequence/solution/python3-tan-xin-si-xiang-jie-he-x_yzhou-tu-qiu-jie/
   * [判断链表是否存在环]
   * [最长子序列]
 
