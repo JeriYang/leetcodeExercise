@@ -2,7 +2,7 @@
 #### 基础篇
 * [***先验内容lec0***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec0/)
 * [***双指针lec1***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec1/)
-  * [有序数组的 Two Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/1_1.py):---https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
+  * [167. 有序数组的 Two Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/1_1.py):---https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
   * [两数平方和]
   * [反转字符串中的元音字符]
   * [回文字符串]
@@ -34,7 +34,8 @@
   * [数组区间]
   * [分割整数]
   * [最长递增子序列]
-    * [最长递增子序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/300.py):---https://leetcode-cn.com/problems/longest-increasing-subsequence/submissions/
+    * [300. 最长递增子序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/300.py):---https://leetcode-cn.com/problems/longest-increasing-subsequence/
+    * [646. 最长数对链](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/646.py):---https://leetcode-cn.com/problems/maximum-length-of-pair-chain/
   * [判断链表是否存在环]
   * [最长子序列]
 
