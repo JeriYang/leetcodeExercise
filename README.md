@@ -2,13 +2,20 @@
 #### 基础篇
 * [***先验内容lec0***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec0/)
 * [***双指针lec1***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec1/)
-  * [167. 有序数组的 Two Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/1_1.py):---https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
+  * [有序数组的 Two Sum]
+    * [167. Two Sum II - Input array is sorted](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/1_1.py):---https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
   * [两数平方和]
+    * [633. Sum of Square Numbers](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/633.py):---
   * [反转字符串中的元音字符]
+    * [345. Reverse Vowels of a String](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/345.py):---
   * [回文字符串]
+    * [680. Valid Palindrome II](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/680.py):---
   * [归并两个有序数组]
+    * [88. Merge Sorted Array](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/88.py):---
   * [判断链表是否存在环]
+    * [141. Linked List Cycle](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/141.py):---
   * [最长子序列]
+    * [524. Longest Word in Dictionary through Deleting](https://github.com/JeriYang/lettcodeExercise/blob/master/lec1/524.py):---
 * [***排序lec2***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec2/)
   * [排版]
     * [排版练习题_叠筐]
