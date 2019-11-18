@@ -37,8 +37,16 @@
     * [300. 最长递增子序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/300.py):---https://leetcode-cn.com/problems/longest-increasing-subsequence/
     * [646. 最长数对链](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/646.py):---https://leetcode-cn.com/problems/maximum-length-of-pair-chain/
     * [376. 摆动序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/376.py):---https://leetcode-cn.com/problems/wiggle-subsequence/solution/python3-tan-xin-si-xiang-jie-he-x_yzhou-tu-qiu-jie/
-  * [判断链表是否存在环]
-  * [最长子序列]
+  * [0-1背包]
+    * [416. Partition Equal Subset Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/416.py):---https://leetcode-cn.com/problems/partition-equal-subset-sum/
+    * [494. Target Sum]
+    * [474. Ones and Zeroes]
+    * [322. Coin Change]
+    * [518. Coin Change 2]
+    * [139. Word Break]
+    * [377. Combination Sum IV]
+  * [股票交易]
+  * [字符串编辑]
 
 * [***数学lec8***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec8/)
   * [教材pdf]
