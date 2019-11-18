@@ -39,8 +39,8 @@
     * [376. 摆动序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/376.py):---https://leetcode-cn.com/problems/wiggle-subsequence/solution/python3-tan-xin-si-xiang-jie-he-x_yzhou-tu-qiu-jie/
   * [0-1背包]
     * [416. Partition Equal Subset Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/416.py):---https://leetcode-cn.com/problems/partition-equal-subset-sum/
-    * [494. Target Sum]
-    * [474. Ones and Zeroes]
+    * [494. Target Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/494.py):---https://leetcode-cn.com/problems/target-sum/
+    * [474. Ones and Zeroes](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/474.py):---https://leetcode-cn.com/problems/ones-and-zeroes/
     * [322. Coin Change]
     * [518. Coin Change 2]
     * [139. Word Break]
