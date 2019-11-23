@@ -50,8 +50,9 @@
     * [474. Ones and Zeroes](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/474.py)3. 01 字符构成最多的字符串:---https://leetcode-cn.com/problems/ones-and-zeroes/
     * [322. Coin Change](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/322.py)4. 找零钱的最少硬币数:---https://leetcode-cn.com/problems/coin-change/
     * [518. Coin Change 2](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/518.py)5. 找零钱的硬币数组合:---https://leetcode-cn.com/problems/coin-change-2/
-    * [139. Word Break](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/139.py)6. 字符串按单词列表分割:---https://leetcode-cn.com/problems/word-break/
-    * [377. Combination Sum IV](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/377.py)7. 组合总和:---https://leetcode-cn.com/problems/combination-sum-iv/
+    * 6. 字符串按单词列表分割[139. Word Break](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/139.py):---https://leetcode-cn.com/problems/word-break/
+    * 7. 组合总和
+      * [377. Combination Sum IV](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/377.py):---https://leetcode-cn.com/problems/combination-sum-iv/
   * [股票交易]
     * [309. Best Time to Buy and Sell Stock with Cooldown]
     * [714. Best Time to Buy and Sell Stock with Transaction Fee]
