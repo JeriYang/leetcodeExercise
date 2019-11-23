@@ -45,14 +45,18 @@
     * [646. 最长数对链](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/646.py):---https://leetcode-cn.com/problems/maximum-length-of-pair-chain/
     * [376. 摆动序列](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/376.py):---https://leetcode-cn.com/problems/wiggle-subsequence/solution/python3-tan-xin-si-xiang-jie-he-x_yzhou-tu-qiu-jie/
   * [0-1背包]
-    * [416. Partition Equal Subset Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/416.py):---https://leetcode-cn.com/problems/partition-equal-subset-sum/
-    * [494. Target Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/494.py):---https://leetcode-cn.com/problems/target-sum/
-    * [474. Ones and Zeroes](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/474.py):---https://leetcode-cn.com/problems/ones-and-zeroes/
-    * [322. Coin Change]
-    * [518. Coin Change 2]
-    * [139. Word Break]
-    * [377. Combination Sum IV]
+    * [416. Partition Equal Subset Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/416.py)1. 划分数组为和相等的两部分:---https://leetcode-cn.com/problems/partition-equal-subset-sum/
+    * [494. Target Sum](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/494.py)2. 改变一组数的正负号使得它们的和为一给定数:---https://leetcode-cn.com/problems/target-sum/
+    * [474. Ones and Zeroes](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/474.py)3. 01 字符构成最多的字符串:---https://leetcode-cn.com/problems/ones-and-zeroes/
+    * [322. Coin Change](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/322.py)4. 找零钱的最少硬币数:---https://leetcode-cn.com/problems/coin-change/
+    * [518. Coin Change 2](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/518.py)5. 找零钱的硬币数组合:---https://leetcode-cn.com/problems/coin-change-2/
+    * [139. Word Break](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/139.py)6. 字符串按单词列表分割:---https://leetcode-cn.com/problems/word-break/
+    * [377. Combination Sum IV](https://github.com/JeriYang/lettcodeExercise/blob/master/lec7/377.py)7. 组合总和:---https://leetcode-cn.com/problems/combination-sum-iv/
   * [股票交易]
+    * [309. Best Time to Buy and Sell Stock with Cooldown]
+    * [714. Best Time to Buy and Sell Stock with Transaction Fee]
+    * [123. Best Time to Buy and Sell Stock III]
+    * [188. Best Time to Buy and Sell Stock IV]
   * [字符串编辑]
 
 * [***数学lec8***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec8/)
