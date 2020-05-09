@@ -1,4 +1,4 @@
-### 这个 lettcode Exercise Code 的一些内容:
+### 这个 leetcode Exercise Code 的一些内容:
 #### 基础篇
 * [***先验内容lec0***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec0/)
 * [***双指针lec1***](https://github.com/JeriYang/lettcodeExercise/tree/master/lec1/)
